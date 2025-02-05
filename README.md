@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b76111c01ocws5c6hue1h86swjkue56iluaaubl2o7tgo&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adam Rahmadian</h1>
+
 <h3 align="center">A passionate Data Analyst from Indonesia</h3>
 
 - 💬 Ask me about **Data Science or Data Analysis**
