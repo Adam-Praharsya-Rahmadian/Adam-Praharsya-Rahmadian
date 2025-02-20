@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="500"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Adam Rahmadian</h1>
 <h3 align="center">A passionate Data Analyst from Indonesia 📊</h3>
 
